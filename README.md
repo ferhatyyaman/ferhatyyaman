@@ -8,9 +8,6 @@
 
 📫 How to reach me ferhat.yyaman@gmail.com
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatyyaman)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatyyaman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
