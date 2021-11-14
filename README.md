@@ -28,4 +28,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?ferhatyyaman=your-github-ferhatyyaman&label=PROFILE+VIEWS)
+
