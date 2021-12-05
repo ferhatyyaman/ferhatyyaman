@@ -2,7 +2,7 @@
 
 
 
-🌱 I’m currently learning Java, Golang
+🌱 I’m currently learning Java, Python
 
 👨‍💻 Portfolio https://ferhatyyaman.github.io/
 
