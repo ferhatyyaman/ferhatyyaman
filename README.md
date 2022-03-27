@@ -25,6 +25,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![SQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)
 
 
 
