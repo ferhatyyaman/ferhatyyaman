@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatyyaman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
-
+![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-2B2728?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
